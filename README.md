@@ -9,7 +9,8 @@ I wanted to try a more modern and flexible language that also makes the most of 
 This repository contains:
 - Notes, exercises and projects from different sources, such as:
     - [x] [A Tour of Go](https://go.dev/tour/list)
-    - [ ] [How To Write Go Code](https://go.dev/doc/code)
+    - [x] [How To Write Go Code](https://go.dev/doc/code)
+    - [ ] [Effective Go](https://go.dev/doc/effective_go)
     - [ ] [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs)
     - [ ] [Advanced Go Concurrency Patterns](https://www.youtube.com/watch?v=QDDwwePbDtw)
     - [ ] [Share Memory By Communicating](https://go.dev/doc/codewalk/sharemem/)
